@@ -4,6 +4,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 public class PDV {
+	//pdv
 
 	public static void main(String[] args) {
 		//Date --> trabalhar com data
@@ -23,7 +24,7 @@ public class PDV {
 		System.out.println("");
 		
 		System.out.print("Valor Total: ");
-		desconto = leia.nextDouble();
+		total = leia.nextDouble();
 
 		System.out.print("Desconto em %:");
 		desconto = leia.nextDouble();
